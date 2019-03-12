@@ -16,7 +16,7 @@ LabelTool
 |--InputImages/   *# directory containing the images to be labeled*  
 |  
 |--OutputImages/   *# directory for the image processing results*  
-|
+|  
 |--OutputLabels/   *# directory for the labeling results*  
 
 Environment
