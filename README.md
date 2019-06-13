@@ -32,9 +32,9 @@ Usage
 -----
 1. Input a folder and click `Load`. The images in the folder will begin to load.
 2. Check the Classification field, to see if it matches the box you're about to draw.
-2. To create a new bounding box, left-click to select the first vertex. Moving the mouse to draw a rectangle, and left-click again to select the second vertex.
+3. To create a new bounding box, left-click to select the first vertex. Moving the mouse to draw a rectangle, and left-click again to select the second vertex.
   - To cancel the bounding box while drawing, just press `<Esc>`.
   - To delete an existing bounding box, select it from the listbox, and click `Delete`.
   - To delete all existing bounding boxes in the image, simply click `ClearAll`.
-3. After finishing one image, click `Next` to advance. Likewise, click `Prev` to reverse.
+4. After finishing one image, click `Next` to advance. Likewise, click `Prev` to reverse.
   - Be sure to click `Next` after finishing a image, or the result won't be saved. 
